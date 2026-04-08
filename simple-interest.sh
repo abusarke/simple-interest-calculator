@@ -4,7 +4,7 @@
 
 # Do not use this in production. Sample purpose only.
 
-# Author: Abubakar Ibrahim
+# Abubakar Ibrahim
 # Additional Authors:
 # abusarke
 
